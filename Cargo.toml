@@ -1,0 +1,9 @@
+[package]
+name = "snake_rust"
+version = "0.1.0"
+authors = ["henghuang"]
+edition = "2018"
+
+[dependencies]
+termion = "*"
+rand ="*"
