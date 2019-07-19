@@ -1,4 +1,4 @@
-A snake game written in rust language.
+A snake game write in rust language.
 
 w s a d <=> up down left right
 
